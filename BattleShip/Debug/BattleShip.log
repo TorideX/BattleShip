@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(43,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(355,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(455,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(633,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(675,32): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(694,32): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(722,66): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(733,66): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(772,66): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(783,66): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(821,66): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(832,66): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(870,66): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(881,66): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(974,33): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(982,33): warning C4309: '=': truncation of constant value
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(1084,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ibrah\source\repos\BattleShip\BattleShip\Source.cpp(630): warning C4715: 'Ship_Count_is_Zero': not all control paths return a value
+  BattleShip.vcxproj -> C:\Users\ibrah\source\repos\BattleShip\Debug\BattleShip.exe
